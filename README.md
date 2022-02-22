@@ -1,2 +1,2 @@
 # Appoientment-UI
- Ui for organize appoientment for the doctor.
+ Ui for organizing appoientment for the doctor using flutter.
